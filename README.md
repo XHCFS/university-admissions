@@ -13,7 +13,6 @@
 | University | Application Link | Fee Waiver Link | Deadline | Application Status |
 |------------|------------------|-----------------|----------|--------------------|
 | **University of Washington** | [Apply Here](https://grad.uw.edu/admissions/) | [Fee Waiver Info](https://www.cs.washington.edu/academics/phd/admissions) | Dec 15, 2025 | Application partially filled, opens on 9/1, Need to apply for Fee waiver |
-| **University of Illinois Chicago** | [Apply Here](https://cs.uic.edu/graduate/admissions/) | [Fee Waiver Info](https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers) | Jan 15, 2026 | |
 | **Purdue University** | [Apply Here](https://www.purdue.edu/gradschool/admissions/) | [Fee Waiver Info](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html) | Dec 15, 2025 | |
 | **University of Maryland** | [Apply Here](https://gradschool.umd.edu/admissions) | [Fee Waiver Info](https://gradschool.umd.edu/feewaiverinformation) | Dec 15, 2025 | |
 | **University of Virginia** | [Apply Here](https://engineering.virginia.edu/graduate-admissions) | [Fee Waiver Info](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) | Dec 15, 2025 | |
