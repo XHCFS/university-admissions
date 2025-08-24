@@ -24,13 +24,13 @@ Applications to Safety Schools Should be Priotizied first, Then Fill in Target S
 | **Purdue University** | [Apply Here](https://www.purdue.edu/gradschool/admissions/) | [Fee Waiver Info](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html) | Dec 15, 2025 | Unfinished Application, Need Transcript, essays, and Recommenders |
 | **University of Maryland** | [Apply Here](https://gradschool.umd.edu/admissions) | [Fee Waiver Info](https://gradschool.umd.edu/feewaiverinformation) | Dec 05, 2025 | Unfinished Application, Need recommenders, essays (not just SOP) and fee waiver |
 | **University of Virginia** | [Apply Here](https://engineering.virginia.edu/graduate-admissions) | [Fee Waiver Info](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) | Dec 15, 2025 | Free applications for 2026, unfinished appliction. need essays transcript and recommendation |
+| **Pitssburgh** | [Apply Here](https://gradcas2026.cas.myliaison.com/applicant-ux/#/programSearch/new) | [Fee Waiver in the Same Form] | January? | Applications no started yet |
 
 ---
 
 ## **SAFETY SCHOOLS**
 | University | Application Link | Fee Waiver Link | Deadline | Application Status |
 |------------|------------------|-----------------|----------|--------------------|
-| **Stony Brook** | [Apply Here](https://www.stonybrook.edu/commcms/grad/) | [Fee Waiver Info](https://www.stonybrook.edu/sb/graduatebulletin/current/admissions/special/waiver.php) | Jan 15, 2026 | |
 | **University of Colorado Boulder** | [Apply Here](https://www.colorado.edu/graduateschool/admissions) | [Fee Waiver Info](https://www.colorado.edu/graduateschool/admissions/application-requirements/application-fee) | Dec 15, 2025 | Application unfinished, Most of the fields required |
 | **Iowa State University** | [Apply Here](https://www.cs.iastate.edu/graduate-studies/) | [Fee Waiver Available](https://www.grad-college.iastate.edu/admissions/) | Jan 15, 2026 | |
 
