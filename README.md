@@ -23,7 +23,7 @@ Applications to Safety Schools Should be Priotizied first, Then Fill in Target S
 | **University of Washington** | [Apply Here](https://grad.uw.edu/admissions/) | [Fee Waiver Info](https://www.cs.washington.edu/academics/phd/admissions) | Dec 15, 2025 | Application partially filled, opens on 9/1, Need to apply for Fee waiver |
 | **Purdue University** | [Apply Here](https://www.purdue.edu/gradschool/admissions/) | [Fee Waiver Info](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html) | Dec 15, 2025 | Unfinished Application, Need Transcript, essays, and Recommenders |
 | **University of Maryland** | [Apply Here](https://gradschool.umd.edu/admissions) | [Fee Waiver Info](https://gradschool.umd.edu/feewaiverinformation) | Dec 05, 2025 | Unfinished Application, Need recommenders, essays (not just SOP) and fee waiver |
-| **University of Virginia** | [Apply Here](https://engineering.virginia.edu/graduate-admissions) | [Fee Waiver Info](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) | Dec 15, 2025 | |
+| **University of Virginia** | [Apply Here](https://engineering.virginia.edu/graduate-admissions) | [Fee Waiver Info](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) | Dec 15, 2025 | Free applications for 2026, unfinished appliction. need essays transcript and recommendation |
 
 ---
 
