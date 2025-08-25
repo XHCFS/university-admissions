@@ -1,53 +1,3 @@
-# PhD Computer Science Programs - Fall 2026 (NO GRE REQUIRED)
-
-## Check List before admissions are possible
-- [ ] Draft Essays (SOP, Diversity, possibly others)
-- [ ] Get an Official Transcript
-- [ ] Prepare for Recommendation letters 
-- [ ] Make Accounts, fill in basic information for all of these
-
-Applications to Safety Schools Should be Priotizied first, Then Fill in Target Schools and then MAYBE if I'm feeling crazy I'll fill in one or two reach schools
-
-## **REACH SCHOOLS**
-| University | Application Link | Fee Waiver Link | Deadline | Application Status |
-|------------|------------------|-----------------|----------|--------------------|
-| **MIT** | [Apply Here](http://gradadmissions.mit.edu/) | [Fee Waiver Info](http://gradadmissions.mit.edu/about/diversity-initiatives/fee-waiver) | Dec 15, 2025 | |
-| **Northwestern University** | [Apply Here](https://www.mccormick.northwestern.edu/computer-science/) | [Fee Waiver Available](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | Dec 15, 2025 | |
-| **UCSD** | [Apply Here](https://cse.ucsd.edu/graduate/admissions) | [Fee Waiver Info](https://docs.google.com/forms/d/e/1FAIpQLSekFbkST-lIVOMQm_hKHotCgOZXaaCYx3Tg4ePXPjX5p_9xag/viewform) | Dec 17, 2025 | |
-
----
-
-## **TARGET SCHOOLS**
-| University | Application Link | Fee Waiver Link | Deadline | Application Status |
-|------------|------------------|-----------------|----------|--------------------|
-| **University of Washington** | [Apply Here](https://grad.uw.edu/admissions/) | [Fee Waiver Info](https://www.cs.washington.edu/academics/phd/admissions) | Dec 15, 2025 | Application partially filled, opens on 9/1, Need to apply for Fee waiver |
-| **Purdue University** | [Apply Here](https://www.purdue.edu/gradschool/admissions/) | [Fee Waiver Info](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html) | Dec 15, 2025 | Unfinished Application, Need Transcript, essays, and Recommenders |
-| **University of Maryland** | [Apply Here](https://gradschool.umd.edu/admissions) | [Fee Waiver Info](https://gradschool.umd.edu/feewaiverinformation) | Dec 05, 2025 | Unfinished Application, Need recommenders, essays (not just SOP) and fee waiver |
-| **University of Virginia** | [Apply Here](https://engineering.virginia.edu/graduate-admissions) | [Fee Waiver Info](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) | Dec 15, 2025 | Free applications for 2026, unfinished appliction. need essays transcript and recommendation |
-| **Pitssburgh** | [Apply Here](https://gradcas2026.cas.myliaison.com/applicant-ux/#/programSearch/new) | [Fee Waiver in the Same Form] | January? | Applications no started yet |
-
----
-
-## **SAFETY SCHOOLS**
-| University | Application Link | Fee Waiver Link | Deadline | Application Status |
-|------------|------------------|-----------------|----------|--------------------|
-| **University of Colorado Boulder** | [Apply Here](https://www.colorado.edu/graduateschool/admissions) | [Fee Waiver Info](https://www.colorado.edu/graduateschool/admissions/application-requirements/application-fee) | Dec 15, 2025 | Application unfinished, Most of the fields required |
-| **Iowa State University** | [Apply Here](https://www.cs.iastate.edu/graduate-studies/) | [Fee Waiver Available](https://www.grad-college.iastate.edu/admissions/) | Jan 15, 2026 | |
-
----
-
-## **ADDITIONAL NO-GRE OPTIONS**
-| University | Application Link | Fee Waiver Link | Deadline | Application Status |
-|------------|------------------|-----------------|----------|--------------------|
-| **University of Utah** | [Apply Here](https://admissions.utah.edu/graduate/) | [Fee Waiver Info](https://www.cs.utah.edu/graduate/admissions/) | Dec 15, 2025 | |
-| **Arizona State University** | [Apply Here](https://admission.asu.edu/graduate) | [Fee Waiver Available](https://graduate.asu.edu/admissions) | Jan 15, 2026 | |
-| **University of Rochester** | [Apply Here](https://www.rochester.edu/college/gradstudies/) | [Fee Waiver Available](https://www.rochester.edu/college/gradstudies/graduate-admissions/) | Jan 15, 2026 | |
-| **Georgia State University** | [Apply Here](https://cs.gsu.edu/graduate/) | [Fee Waiver Available](https://graduateadmissions.gsu.edu/) | Feb 1, 2026 | |
-
-
-
-NEW LIST
-
 # PhD Computer Science Programs — Fall 2026 (NO GRE REQUIRED + FEE WAIVER)
 
 > Working list to reach **20 total** applications: **3 Reach / 10 Target / 7 Safety**.
@@ -86,7 +36,7 @@ NEW LIST
 | **University of Maryland**                           | [https://gradschool.umd.edu/admissions](https://gradschool.umd.edu/admissions)                                                                                           | [https://gradschool.umd.edu/feewaiverinformation](https://gradschool.umd.edu/feewaiverinformation)                                                   | Dec 05, 2025            | Unfinished. Need recommenders, essays (multiple), fee waiver.           |
 | **University of Virginia (SEAS-CS)**                 | [https://engineering.virginia.edu/graduate-admissions](https://engineering.virginia.edu/graduate-admissions)                                                             | **Free apps for 2026**                                                                                                                               | Dec 15, 2025            | Unfinished. Need essays, transcript, recommendation.                    |
 | **University of Pittsburgh**                         | (GradCAS link)                                                                                                                                                           | Fee waiver within same form                                                                                                                          | Jan ??, 2026            | Not started.                                                            |
-| **Rice University (CS PhD)**                         | [https://cs.rice.edu/academics/graduate-programs/phd](https://cs.rice.edu/academics/graduate-programs/phd)                                                               | **No application fee (PhD)**                                                                                                                         | **TBA** (typically Dec) | New. GRE optional. Apply early.                                         |
+| **Rice University (CS PhD)**                         | [https://cs.rice.edu/academics/graduate-programs/phd](https://gradadmissions.rice.edu/apply/status?submitted=1)                                                               | **No application fee (PhD)**                                                                                                                         | **TBA** (typically Dec) | Application filled. SOP is AI generated (oops) reach school anyways likely wont get accepted. Need to send IELTS score to some code. Will see about this once my safety schools are submitted                  |
 | **University of Chicago (CS PhD)**                   | [https://cs.uchicago.edu/academics/phd-program/](https://cs.uchicago.edu/academics/phd-program/)                                                                         | **Fee waiver available (incl. intl., hardship)**                                                                                                     | **TBA** (Dec)           | New. GRE optional.                                                      |
 | **University of Notre Dame (CSE PhD)**               | [https://cse.nd.edu/graduate/ph-d/](https://cse.nd.edu/graduate/ph-d/)                                                                                                   | **Fee waiver available (intl. eligible)**                                                                                                            | **TBA** (Dec)           | New. GRE not required.                                                  |
 | **University of Utah (Kahlert School of Computing)** | [https://www.cs.utah.edu/graduate/admissions/](https://www.cs.utah.edu/graduate/admissions/)                                                                             | **International fee waivers available (merit-based)**                                                                                                | **TBA** (Dec)           | New. GRE optional.                                                      |
